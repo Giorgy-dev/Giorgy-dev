@@ -9,7 +9,7 @@ Hi! I am a software developer (high level), but I am also:
 
  - 🎵 a music producer: <br>
     I love listening to [The Weeknd](https://www.theweeknd.com) <br>
-    and [Izi](https://it.wikipedia.org/wiki/Aletheia_(album)))
+    and [Izi](https://it.wikipedia.org/wiki/Aletheia_(album))
  
  - 🖼️ "a designer": <br>
     ([SID](https://www.scuolaitalianadesign.com), good things are coming...) <br>
