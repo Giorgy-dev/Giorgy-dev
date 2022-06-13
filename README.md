@@ -1,5 +1,5 @@
 #  Marco_Gorgetti
-🤌🏻 Italian, Veneto, Padova
+🤌🏻 Italian, Veneto, Padua
 18y/o
 
 Hi! I am a software developer (high level), but I am also:
