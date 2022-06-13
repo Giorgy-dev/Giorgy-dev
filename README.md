@@ -21,4 +21,4 @@ Hi! I am a software developer (high level), but I am also:
     Thanks to [Next Graphic Design](https://www.nextgd.it) for designing with me my custom graphics ⬛🟦
 
 Credit: [Giorgy-dev](https://github.com/Giorgy-dev)             
-Last Edited on: 13/06/2022
+Latest Update on: 13/06/2022
