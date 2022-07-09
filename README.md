@@ -4,8 +4,8 @@
 
 Hi! I am a software developer (high level), but I am also:
  
- - 👨‍🎓 a student at ITI Severi Padova (graduating in IT)
-    Here learned Java and PHP
+ - 👨‍🎓 Graduated in IT at ITI Severi Padova
+    Here I learned Java and PHP
 
  - 🎵 a music producer: <br>
     I love listening to [The Weeknd](https://www.theweeknd.com) <br>
@@ -21,4 +21,4 @@ Hi! I am a software developer (high level), but I am also:
     Thanks to [Next Graphic Design](https://www.nextgd.it) for designing with me my custom graphics ⬛🟦
 
 Credit: [Giorgy-dev](https://github.com/Giorgy-dev)             
-Latest Update on: 13/06/2022
+Latest Update on: 09/07/2022
