@@ -13,10 +13,7 @@ Hi! I am a software developer (high level), but I am also:
  
  - 🖼️ "a designer": <br>
     ([SID](https://www.scuolaitalianadesign.com), good things are coming...) <br>
-    I develop user-friendly interfaces with
-    -JS
-    -React TSX
-    -Flutter
+    I develop user-friendly interfaces with JS, React TSX and Flutter
 
  - 🏍️ a motard rider: <br>
     [SWM SM 125 R](https://swm-motorcycles.it/it/product/sm-125-r/) <br>
