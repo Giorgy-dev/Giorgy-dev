@@ -1,6 +1,6 @@
 #  Marco Gorgetti
 🤌🏻 Italian, Veneto, Padua
-18y/o
+19y/o
 
 Hi! I am a software developer (high level), but I am also:
  
@@ -12,8 +12,9 @@ Hi! I am a software developer (high level), but I am also:
     I love listening to [The Weeknd](https://www.theweeknd.com) <br>
     and [Izi](https://it.wikipedia.org/wiki/Aletheia_(album))
  
- - 🖼️ a designer: <br>
+ - 🖼️ a product designer: <br>
     currently studying at [SID](https://www.scuolaitalianadesign.com)<br>
+    individually studying web design
 
  - 🏍️ a motard rider: <br>
     [SWM SM 125 R](https://swm-motorcycles.it/it/product/sm-125-r/) <br>
@@ -22,4 +23,4 @@ Hi! I am a software developer (high level), but I am also:
     GRENZGAENGER
 
 Credit: [Giorgy-dev](https://github.com/Giorgy-dev)             
-Latest Update on: 26/10/2022
+Latest Update on: 08/02/2023
