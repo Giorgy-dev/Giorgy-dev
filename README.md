@@ -2,6 +2,9 @@
 🤌🏻 Italian, Veneto, Padua
 19y/o
 
+Gli insuccessi sempre pubblici. <br>
+hunt nel cuore <3 <br>
+
 Hi! I am a frontend developer, but I am also:
  
  - 👨‍🎓 Graduated in IT at ITI Severi Padova
@@ -32,8 +35,6 @@ Hi! I am a frontend developer, but I am also:
     2020 blck/yllw ed. ⬛🟨<br>
     Thanks to [Next Graphic Design](https://www.nextgd.it) for designing with me my custom graphics ⬛🟦 <br>
     GRENZGAENGER
-    
-   hunt nel cuore <3
 
 Credit: [Giorgy-dev](https://github.com/Giorgy-dev)             
 Latest Update on: 11/05/2023
