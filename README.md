@@ -2,7 +2,7 @@
 🤌🏻 Italian, Veneto, Padua
 19y/o
 
-Hi! I am a software developer (high level), but I am also:
+Hi! I am a frontend developer, but I am also:
  
  - 👨‍🎓 Graduated in IT at ITI Severi Padova
     Here I learned Java and PHP
@@ -10,7 +10,6 @@ Hi! I am a software developer (high level), but I am also:
 
  - 🎵 a music producer: <br>
     I love listening to [The Weeknd](https://www.theweeknd.com) <br>
-    and [Izi](https://it.wikipedia.org/wiki/Aletheia_(album))
  
  - 🖼️ a product designer: <br>
     currently studying at [SID](https://www.scuolaitalianadesign.com)<br>
@@ -23,4 +22,4 @@ Hi! I am a software developer (high level), but I am also:
     GRENZGAENGER
 
 Credit: [Giorgy-dev](https://github.com/Giorgy-dev)             
-Latest Update on: 08/02/2023
+Latest Update on: 11/05/2023
