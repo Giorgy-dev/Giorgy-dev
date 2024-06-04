@@ -23,7 +23,7 @@ Hi! I am a frontend developer, but I am also:
      Avaion <br>
      Lil Peep <br>
      NF <br>
-     and so much more...
+     and much more...
      
  
  - 🖼️ a product designer: <br>
