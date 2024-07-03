@@ -1,6 +1,6 @@
 #  Marco Gorgetti
 🤌🏻 Italian, Veneto, Padua
-19y/o
+20y/o
 
 Gli insuccessi sempre pubblici. <br>
 hunt nel cuore <3 <br>
@@ -30,11 +30,5 @@ Hi! I am a frontend developer, but I am also:
     currently studying at [SID](https://www.scuolaitalianadesign.com)<br>
     individually studying web design
 
- - 🏍️ a motard rider: <br>
-    [SWM SM 125 R](https://swm-motorcycles.it/it/product/sm-125-r/) <br>
-    2020 blck/yllw ed. ⬛🟨<br>
-    Thanks to [Next Graphic Design](https://www.nextgd.it) for designing with me my custom graphics ⬛🟦 <br>
-    GRENZGAENGER
-
 Credit: [Giorgy-dev](https://github.com/Giorgy-dev)             
-Latest Update on: 11/05/2023
+Latest Update on: 4/07/2023
